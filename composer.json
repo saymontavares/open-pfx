@@ -6,7 +6,7 @@
         "setasign/fpdi": "^2.3",
         "tecnickcom/tcpdf": "^6.4"
     },
-    "license": "GLP-3.0-or-later",
+    "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
             "Saymontavares\\OpenPfx\\": "src/"

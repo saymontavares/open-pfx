@@ -17,7 +17,10 @@ Informando o arquivo PFX com a senha, a classe fica reponsável por gerar o arqu
 - [PHP 7+](https://www.php.net/)
 
 ### Como usar
-To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
+Instale o pacote no seu projeto e siga o exemplo:
+```bash
+$ composer install saymontavares/open-pfx
+```
 ```php
 require_once 'vendor/autoload.php';
 
