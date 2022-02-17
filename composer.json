@@ -4,7 +4,8 @@
     "type": "library",
     "require": {
         "setasign/fpdi": "^2.3",
-        "tecnickcom/tcpdf": "^6.4"
+        "tecnickcom/tcpdf": "^6.4",
+        "php": ">=7.0"
     },
     "license": "GPL-3.0-or-later",
     "autoload": {
