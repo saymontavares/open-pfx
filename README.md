@@ -1,4 +1,4 @@
-# react-calculator
+# open-pfx
 [![License: GPL 3.0](https://img.shields.io/badge/License-GPL-red.svg)](https://opensource.org/licenses/GPL-3.0)
 
 Classe para gerar os arquivos privados à partir do arquivo PFX criptografado com senha.
